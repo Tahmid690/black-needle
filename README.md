@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Black Needle Banner](./public/images/hero.png)
-
 **A full-stack, production-grade e-commerce web application for a premium men's shirt brand.**
 
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
@@ -35,13 +33,14 @@
 
 ## 🖼️ Screenshots
 
-| Storefront Hero | New Drops Catalogue | Checkout |
+| Storefront Hero | Description | Checkout |
 |---|---|---|
-| ![Hero](./public/images/hero.png) | ![Catalogue](./public/images/formal.png) | ![Casual](./public/images/casual.png) |
+| ![Hero](./public/images/hero.png) | ![Catalogue](./public/images/display.png) | ![Casual](./public/images/check.png) |
 
 ---
 
 ## 🗂️ Project Structure
+
 
 ```
 black-needle/
